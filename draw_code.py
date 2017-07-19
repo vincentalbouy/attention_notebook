@@ -1,4 +1,8 @@
 
+
+#import packages 
+
+
 import tensorflow as tf
 from tensorflow.examples.tutorials import mnist
 import numpy as np
